@@ -1,5 +1,5 @@
 # AI-based-Waitlist-Treatment
-From Waitlists to Well-Being: An Analytical Approach to AI-Supported Mental Healthcare
+From Waitlists to Well-Being: An Analytical Approach to AI-Supported Mental Healthcare, IISE, 2026, forthcoming.
 
 | Which results to reproduce | Data File | Code File | Expected output | Run time at the above-specified computer conditions |
 |---|---|---|---|---|
